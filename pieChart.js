@@ -4,7 +4,7 @@
  * @Date Started June 24 2012
  */
 
-//Raphael Paper
+//Raphael Paper variable
 var paper;
 
 /*
