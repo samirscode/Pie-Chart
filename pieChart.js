@@ -1,7 +1,8 @@
 /**
  * A JS for half/full pie chart drawing
  * @author Mohamed Samir <mohamedsamir216@gmail.com>
- * @Date Started June 24 2012 
+ * @Date Started June 24 2012
+ *  
  */
 
 //Raphael Paper
