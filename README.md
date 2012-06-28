@@ -3,8 +3,9 @@ Built on the official demo in raphaeljs website to draw half/full pie chart , wi
 
 ##Usage:
 1- Embed lib Scripts and PieChart.js  
-2- Creat container div with any ID you want. 
+2- Creat container div with any ID you want.
 3- Call the drawPie.
+
 
 ```javascript
 		/* Parameters:
