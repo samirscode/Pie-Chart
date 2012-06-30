@@ -8,7 +8,9 @@ Built on the official demo in raphaeljs website to draw half/full pie chart , wi
 
 ```javascript
 		/* Parameters:
-		  -> Center point (x,y)
+		  -> Target Div Id
+		  -> Center point x
+		  -> Center point y
 		  -> Chart width
 		  -> Chart Height 
 		  -> Radious of the chart
