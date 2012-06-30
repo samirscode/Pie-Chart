@@ -12,8 +12,8 @@ Built on the official demo in raphaeljs website to draw half/full pie chart , wi
 		  -> Chart width
 		  -> Chart Height 
 		  -> Radious of the chart
-		  -> Percentages of each section Total SUM = 100
-		  -> Color of each section
+		  -> Percentages of each section Total SUM = 100 ex: Array(10,20,70)
+		  -> Color of each section  ex: Array('red','yellow','green')
 		  -> Type "Full" for full circle "Half" for half circle
 		*/
 	drawPie(targetDiv,x,y,chartWidth,chartHeight,radious,percentages,colors,type);
